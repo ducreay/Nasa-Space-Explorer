@@ -1,4 +1,3 @@
-
 // NOTE: You do not need to edit this file.
 
 // NASA's APOD API only has images from June 16, 1995 onwards
